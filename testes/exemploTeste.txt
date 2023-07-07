@@ -13,7 +13,7 @@ VARIAVEIS x,y : INTEIRO;
     { 
         SE(y>=10)
         { 
-             ESCREVA(y);
+             ESCREVA(y);    
         }
         SENAO
         {
